@@ -1,0 +1,22 @@
+
+NBA HOME-COURT ADVANTAGE STATISTICAL ANALYSIS SUMMARY
+=======================================================
+Analysis Period: 2004-2022 NBA Seasons
+Total Games Analyzed: 25,594
+Total Player-Game Observations: 536,017
+
+KEY TEAM-LEVEL FINDINGS:
+-----------------------
+Home Team Win Rate: 58.9%
+Away Team Win Rate: 41.1%
+Home Win Advantage: 17.8 percentage points
+
+Statistically Significant Home Advantages Found in:
+- Points per Game: +2.83 points
+- Assists per Game: +1.32 assists
+- Rebounds per Game: +1.28 rebounds
+- Free Throw Attempts: +1.05 attempts
+- Field Goal %: +1.09 percentage points
+- Three-Point %: +0.65 percentage points
+
+ANALYSIS COMPLETED: 2025-12-05 18:04:25
